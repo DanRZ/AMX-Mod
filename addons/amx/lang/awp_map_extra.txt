@@ -1,0 +1,83 @@
+"Best score"
+fr:"Meilleur score"
+
+"No high score"
+fr:"Pas de meilleur score"
+
+"Last chance !!!"
+fr:"Derniere chance !!!"
+
+"You're not far from death !!!"
+fr:"Vous n'etes pas loin de mourrir !!!"
+
+"Your HPs are really low !!!"
+fr:"Vos HP s'amenuisent !!!"
+
+"all"
+fr:"tous"
+
+"for"
+fr:"pour"
+
+"Target touched"
+fr:"Touche cible"
+
+"Shoot !!!"
+fr:"Tires !!!"
+
+"You killed the target !"
+fr:"Vous avez tue la cible !"
+
+"You killed the chicken !!!"
+fr:"Vous avez tue le poulet !!!"
+
+"Almost ..."
+fr:"Presque ..."
+
+"More points by touching target !!!"
+fr:"Plus de points en touchant la cible !!!"
+
+"Run to the target !!!"
+fr:"Courres vers la cible !!!"
+
+"Extra scores"
+fr:"Scores extra"
+
+"Round rankings"
+fr:"Classement du round"
+
+"Prepare your weapons"
+fr:"Preparez vos armes"
+
+"Don't miss the targets"
+fr:"Ne loupez pas les cibles" )
+
+"You are now a target"
+fr:"Vous etes desormais une cible"
+
+"TK is bad"
+fr:"Le TK c'est pas gentil"
+
+"for the death of a TeamKiller"
+fr:"pour la mort du TK"
+
+"You've been killed by a target"
+fr:"Vous avez ete abattu par une cible"
+
+"Owned"
+fr:"XplZdR"
+
+"Death of a TeamKiller"
+fr:"Mort d'un TK"
+
+"Death of a Bot"
+fr:"Mort d'un Bot"
+
+"Resets the extra HighScore"
+fr:"Remet à zero le meilleur score extra"
+
+"High score resetted by admin"
+fr:"Meilleur score reinitialise par un admin"
+
+"To become a target ..."
+fr:"Pour devenir une cible ..."
