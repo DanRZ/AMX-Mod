@@ -1,47 +1,27 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+*.*
+**/
+!README.md
 
-# Folder config file
-Desktop.ini
+!sound/misc/bonus.wav
+!sound/misc/comeagain.wav
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+!models/banniere.mdl
+!models/barre.mdl
+!models/bonus.mdl
+!models/bonusMort.mdl
+!models/otage1.mdl
+!models/otage2.mdl
+!models/palmtree2.mdl
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+!maps/awp_map.bsp
 
-# Windows shortcuts
-*.lnk
+!gfx/env/backalleybk.tga
+!gfx/env/backalleydn.tga
+!gfx/env/backalleyft.tga
+!gfx/env/backalleylf.tga
+!gfx/env/backalleyrt.tga
+!gfx/env/backalleyup.tga
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+!addons/amx/config/maps/awp_map.cfg
+!addons/amx/examples/awp_map_extra.sma
+!addons/amx/lang/awp_map_extra.txt
