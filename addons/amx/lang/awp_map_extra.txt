@@ -1,83 +1,111 @@
 "Best score"
 fr:"Meilleur score"
+en:"Best score"
 
 "No high score"
 fr:"Pas de meilleur score"
+en:"No high score"
 
 "Last chance !!!"
 fr:"Derniere chance !!!"
+en:"Last chance !!!"
 
 "You're not far from death !!!"
 fr:"Vous n'etes pas loin de mourrir !!!"
+en:"You're not far from death !!!"
 
 "Your HPs are really low !!!"
 fr:"Vos HP s'amenuisent !!!"
+en:"Your HPs are really low !!!"
 
 "all"
 fr:"tous"
+en:"all"
 
 "for"
 fr:"pour"
+en:"for"
 
 "Target touched"
 fr:"Touche cible"
+en:"Target touched"
 
 "Shoot !!!"
 fr:"Tires !!!"
+en:"Shoot !!!"
 
 "You killed the target !"
 fr:"Vous avez tue la cible !"
+en:"You killed the target !"
 
 "You killed the chicken !!!"
 fr:"Vous avez tue le poulet !!!"
+en:"You killed the chicken !!!"
 
 "Almost ..."
 fr:"Presque ..."
+en:"Almost ..."
 
 "More points by touching target !!!"
 fr:"Plus de points en touchant la cible !!!"
+en:"More points by touching target !!!"
 
 "Run to the target !!!"
 fr:"Courres vers la cible !!!"
+en:"Run to the target !!!"
 
 "Extra scores"
 fr:"Scores extra"
+en:"Extra scores"
 
 "Round rankings"
 fr:"Classement du round"
+en:"Round rankings"
 
 "Prepare your weapons"
 fr:"Preparez vos armes"
+en:"Prepare your weapons"
 
 "Don't miss the targets"
-fr:"Ne loupez pas les cibles" )
+fr:"Ne loupez pas les cibles"
+en:"Don't miss the targets"
 
 "You are now a target"
 fr:"Vous etes desormais une cible"
+en:"You are now a target"
 
 "TK is bad"
 fr:"Le TK c'est pas gentil"
+en:"TK is bad"
 
 "for the death of a TeamKiller"
 fr:"pour la mort du TK"
+en:"for the death of a TeamKiller"
 
 "You've been killed by a target"
 fr:"Vous avez ete abattu par une cible"
+en:"You've been killed by a target"
 
 "Owned"
 fr:"XplZdR"
+en:"Owned"
 
 "Death of a TeamKiller"
 fr:"Mort d'un TK"
+en:"Death of a TeamKiller"
 
 "Death of a Bot"
 fr:"Mort d'un Bot"
+en:"Death of a Bot"
 
 "Resets the extra HighScore"
-fr:"Remet à zero le meilleur score extra"
+fr:"Remet a zero le meilleur score extra"
+en:"Resets the extra HighScore"
 
 "High score resetted by admin"
 fr:"Meilleur score reinitialise par un admin"
+en:"High score resetted by admin"
 
 "To become a target ..."
 fr:"Pour devenir une cible ..."
+en:"To become a target ..."

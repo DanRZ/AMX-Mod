@@ -59,6 +59,7 @@ static cvarPointerLight
 
 #define BONUS_KILLED_SPK     "spk barney/ba_gotone"
 //#define BONUS_KILLED_SPK     "spk barney/yougotit"
+
 #define HOSTAGE_KILLED_SPK   "spk items/medshot4"
 //#define HOSTAGE_KILLED_SPK   "spk radio/enemydown"
 //#define HOSTAGE_KILLED_SPK   "spk fvox/bell"
@@ -138,7 +139,8 @@ new debug_extra           = 0
 // MACRO 1
 #define LOG_EXTRA         if (debug_extra == 1 ) log_to_file(LOG_FILE, 
 // MACRO 2 - Always saved
-#define LOG_EXTRA_        log_to_file(LOG_FILE, 
+//#define LOG_EXTRA_        log_to_file(LOG_FILE, 
+#define LOG_EXTRA_        if (debug_extra == 1 ) log_to_file(LOG_FILE, 
 
 //----------------   Methods   ----------------//
 
@@ -637,6 +639,7 @@ public Float:get_rand_time_extra()
 public start_extra()
 {
     LOG_EXTRA "start_extra - IN")
+
     new Float:origin[3]
     new Float:angles[3]
     
@@ -1011,7 +1014,7 @@ public kill_tasks()
     {
         LOG_EXTRA "kill_tasks - remove_task %d", NOTKILL_TASK)
         remove_task(NOTKILL_TASK)
-        }
+    }
     if ( task_exists(NEWEXTRA_TASK) )
     {
         LOG_EXTRA "kill_tasks - remove_task %d", NEWEXTRA_TASK)
@@ -1096,6 +1099,7 @@ public event_CurWeapon(id)
 public extra_beginning()
 {
     LOG_EXTRA "extra_beginning - IN")
+
     bonus = 0
     lastEntity = 0
     stop_enabled = 0
@@ -1116,6 +1120,7 @@ public extra_beginning()
     
     set_task(START_DELAY, "start_extra", NEWEXTRA_TASK)
     LOG_EXTRA "extra_beginning - start_extra %f", START_DELAY)
+
     LOG_EXTRA "extra_beginning - OUT")
 }
 
@@ -1145,6 +1150,7 @@ public extra_stop()
             }
         }
     }
+    
     LOG_EXTRA "extra_stop - OUT")
     return PLUGIN_HANDLED
 }
